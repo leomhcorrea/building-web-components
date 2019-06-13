@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'building-web-components';
+  selector = 'building-web-components';
+
+  title = 'Application with the purpose of training web development using Angular and the creation of a web components portfolio';
 }
